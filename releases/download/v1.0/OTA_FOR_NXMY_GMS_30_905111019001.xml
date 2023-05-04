@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<updata>
+   <command force="true" name="update_with_inc_ota" background="true">
+      <url name="update.zip" locattr="" updatezip="true">http://www.nextmachina3d.com/support/mybox/oppen-ota-R3.20230428.zip</url>
+		<!--<url name="update.zip" locattr="" updatezip="true">http://192.168.1.4:8080/examples/PRO-M2-906016011_PRO-M2-906016011_20201121.164556_ota-test.zip</url>-->
+      <md5 name="update.zip">3BF873E2CDBF91EF615A788644B89611</md5>
+	  <storagemem>760931816</storagemem>
+      <description country="CN" language="zh">
+		Optimize user experience
+		</description>
+		<description country="TW" language="zh">
+		Optimize user experience
+		</description>
+      <description country="ELSE" language="en">
+		Optimize user experience
+	</description>
+   </command>
+
+</updata>
